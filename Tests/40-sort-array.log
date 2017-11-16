@@ -1,0 +1,8 @@
+inexact->exact: contract violation
+  expected: number?
+  given: #f
+  context...:
+   /afs/cats.ucsc.edu/class/cmps112-wm.f15/.admin/asg1/khigh/./sbi.scm:255:0: createVar
+   /afs/cats.ucsc.edu/class/cmps112-wm.f15/.admin/asg1/khigh/./sbi.scm:380:0: function-call
+   /afs/cats.ucsc.edu/class/cmps112-wm.f15/.admin/asg1/khigh/./sbi.scm:404:0: convert
+   /afs/cats.ucsc.edu/class/cmps112-wm.f15/.admin/asg1/khigh/./sbi.scm:448:0: main

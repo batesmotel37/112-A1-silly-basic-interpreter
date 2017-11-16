@@ -1,0 +1,11 @@
+string->number: contract violation
+  expected: string?
+  given: #<eof>
+  context...:
+   /afs/cats.ucsc.edu/courses/cmps112-wm/usr/racket-6.1/share/racket/collects/racket/private/map.rkt:53:19: loop
+   /afs/cats.ucsc.edu/class/cmps112-wm.f15/.admin/asg1/khigh/./sbi.scm:306:0: input
+   /afs/cats.ucsc.edu/class/cmps112-wm.f15/.admin/asg1/khigh/./sbi.scm:380:0: function-call
+   /afs/cats.ucsc.edu/class/cmps112-wm.f15/.admin/asg1/khigh/./sbi.scm:404:0: convert
+   /afs/cats.ucsc.edu/class/cmps112-wm.f15/.admin/asg1/khigh/./sbi.scm:448:0: main
+Quadratic Equation solver.
+Input a, b, c

@@ -1,0 +1,13 @@
++: contract violation
+  expected: number?
+  given: #f
+  argument position: 1st
+  other arguments...:
+   0.0
+  context...:
+   /afs/cats.ucsc.edu/class/cmps112-wm.f15/.admin/asg1/khigh/./sbi.scm:161:0: two_arg_fn
+   /afs/cats.ucsc.edu/class/cmps112-wm.f15/.admin/asg1/khigh/./sbi.scm:321:0: conditional_jump
+   /afs/cats.ucsc.edu/class/cmps112-wm.f15/.admin/asg1/khigh/./sbi.scm:380:0: function-call
+   /afs/cats.ucsc.edu/class/cmps112-wm.f15/.admin/asg1/khigh/./sbi.scm:404:0: convert
+   /afs/cats.ucsc.edu/class/cmps112-wm.f15/.admin/asg1/khigh/./sbi.scm:448:0: main
+Factorial of:
